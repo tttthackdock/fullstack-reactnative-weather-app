@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "FWeather",
+    "slug": "fweather",
+    "sdkVersion": "27.0.0",
+    "icon": "./path/gift.png",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.hyhelix.FWeather"
+    },
+    "android": {
+      "package": "com.hyhelix.FWeather"
+    }
+  }
+}
